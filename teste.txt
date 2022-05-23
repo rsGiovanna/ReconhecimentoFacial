@@ -1,0 +1,15 @@
+INSTALAR BIBLIOTECAS
+
+pip install opencv-python
+pip install face-recognition
+pip install numpy
+pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
+
+conferir se estão instalados: pip list
+
+se não tiver pasta "venv" adicionar ao projeto da seguinte forma:
+
+python -m venv venv 
+
+qualquer coisa, ler documentação da biblioteca de reconhecimento facial:
+https://face-recognition.readthedocs.io/en/latest/readme.html
