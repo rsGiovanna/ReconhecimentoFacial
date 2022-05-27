@@ -28,10 +28,10 @@ Para realizar a instalação no windows, foi necessário seguir todos os passos 
 
 4° - Iremos iniciar o nosso projeto:
 
-        __No terminal__
+**No terminal**
 
-    1 - Digite| -m venv venv 
-    2 - Digite| Set-ExecutionPolicy Unrestricted -Scope Process
+    1 - Digite| `-m venv venv`
+    2 - Digite| `Set-ExecutionPolicy Unrestricted -Scope Process`
     3 - Digite| venv\Scripts\activate.ps1
 
     Aperte as teclas CTRL + SHIFT + P
@@ -40,7 +40,7 @@ Para realizar a instalação no windows, foi necessário seguir todos os passos 
     
     Certifique-se que os arquivos "requirements.txt" e "dlib-19.22.99-cp310-cp310-win_amd64.whl" estejam na pasta do projeto
 
-      __No terminal__
+**No terminal**
 
     1 - Digite| pip install -r requirements.txt
     2 - Digite| pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
