@@ -4,7 +4,7 @@ import numpy as np
 
 video_capture = cv2.VideoCapture(0)
 
-# Carregue uma img.
+# Carregue uma imagem.
 rodrigo_image = face_recognition.load_image_file("img/rodrigo.jpg")
 rodrigo_face_encoding = face_recognition.face_encodings(rodrigo_image)[0]
 
