@@ -54,10 +54,16 @@ Para realizar a instalação no windows, foi necessário seguir todos os passos 
 Somos estudantes do 7° periodo de sistema de informação na UNICEPLAC.
 Nosso grupo é composto por 4 integrantes, sendo eles:
 
-Josue Neris | 20 anos de idade | Documentador do sistema | https://www.linkedin.com/in/josu%C3%A9-neri-a8743a1b6/
+___**Josue Neris**___ | 20 anos de idade | Documentador do sistema | https://www.linkedin.com/in/josu%C3%A9-neri-a8743a1b6/
 
-Mikaelle Ferreira | 21 anos de idade | Gestora do projeto | https://www.linkedin.com/in/mikaelle-ferreira-774261184/
+___**Mikaelle Ferreira**___ | 21 anos de idade | Gestora do projeto | https://www.linkedin.com/in/mikaelle-ferreira-774261184/
 
-Giovanna Rodrigues | 21 anos de idade | Desenvolvedora | https://www.linkedin.com/in/giovanna-rs/
+___**Giovanna Rodrigues**___ | 21 anos de idade | Desenvolvedora  
+**LinkedIn**
+https://www.linkedin.com/in/giovanna-rs/
+**GitHub** https://github.com/rsGiovanna/
 
-Rodrigo Alex | 21 anos de idade | Desenvolvedor BackEnd | https://www.linkedin.com/in/rodrigo-alex-11145992/
+___**Rodrigo Alex**___ | 21 anos de idade | Desenvolvedor BackEnd
+**LinkedIn**
+https://www.linkedin.com/in/rodrigo-alex-11145992/
+**GitHub** https://github.com/ORodrigoAlex
