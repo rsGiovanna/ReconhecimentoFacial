@@ -4,20 +4,20 @@ import numpy as np
 
 video_capture = cv2.VideoCapture(0)
 
-# Carregue uma imagem.
-rodrigo_image = face_recognition.load_image_file("imagem/rodrigo.jpg")
+# Carregue uma img.
+rodrigo_image = face_recognition.load_image_file("img/rodrigo.jpg")
 rodrigo_face_encoding = face_recognition.face_encodings(rodrigo_image)[0]
 
-gilmar_image = face_recognition.load_image_file("imagem/gilmar.jpg")
+gilmar_image = face_recognition.load_image_file("img/gilmar.jpg")
 gilmar_face_encoding = face_recognition.face_encodings(gilmar_image)[0]
 
-mikaelle_image = face_recognition.load_image_file("imagem/mikaelle.jpg")
+mikaelle_image = face_recognition.load_image_file("img/mikaelle.jpg")
 mikaelle_face_encoding = face_recognition.face_encodings(mikaelle_image)[0]
 
-josue_image = face_recognition.load_image_file("imagem/josue.jpg")
+josue_image = face_recognition.load_image_file("img/josue.jpg")
 josue_face_encoding = face_recognition.face_encodings(josue_image)[0]
 
-giovanna_image = face_recognition.load_image_file("imagem/giovanna.jpg")
+giovanna_image = face_recognition.load_image_file("img/giovanna.jpg")
 giovanna_face_encoding = face_recognition.face_encodings(giovanna_image)[0]
 
 
