@@ -66,12 +66,12 @@ ___**Mikaelle Ferreira**___ | 21 anos de idade | Gestora do projeto | https://ww
 
 ___**Giovanna Rodrigues**___ | 21 anos de idade | Desenvolvedora  
 **LinkedIn**
-https://www.linkedin.com/in/giovanna-rs/
+https://www.linkedin.com/in/giovanna-rs/ |
 **GitHub** https://github.com/rsGiovanna/
 
 ##
 
 ___**Rodrigo Alex Gonçalves**___ | 21 anos de idade | Desenvolvedor  
 **LinkedIn**
-https://www.linkedin.com/in/rodrigo-alex-11145992/
+https://www.linkedin.com/in/rodrigo-alex-11145992/ |
 **GitHub** https://github.com/ORodrigoAlex
