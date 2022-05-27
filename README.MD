@@ -16,11 +16,11 @@ A ideia é que, ao avançar no desenvolvimento do projeto, possamos dar um contr
 
 Para realizar a instalação no windows, foi necessário seguir todos os passos a seguir:
 
-1° - Instalar Python https://www.python.org/downloads/
+1° - Instalar Python https://www.python.org/downloads/;
 
-2° - É necessário um editor de código, estamos utilizando o VSCode https://code.visualstudio.com/download
+2° - É necessário um editor de código, estamos utilizando o VSCode https://code.visualstudio.com/download;
 
-3° - No VSCode há opção de instalar extenções, instale a extensão do Python
+3° - No VSCode há uma opção de instalar extenções, instale a extensão do Python;
 
 4° - Iremos iniciar o nosso projeto:
 
@@ -54,16 +54,24 @@ Para realizar a instalação no windows, foi necessário seguir todos os passos 
 Somos estudantes do 7° periodo de sistema de informação na UNICEPLAC.
 Nosso grupo é composto por 4 integrantes, sendo eles:
 
+##
+
 ___**Josue Neris**___ | 20 anos de idade | Documentador do sistema | https://www.linkedin.com/in/josu%C3%A9-neri-a8743a1b6/
 
+##
+
 ___**Mikaelle Ferreira**___ | 21 anos de idade | Gestora do projeto | https://www.linkedin.com/in/mikaelle-ferreira-774261184/
+
+##
 
 ___**Giovanna Rodrigues**___ | 21 anos de idade | Desenvolvedora  
 **LinkedIn**
 https://www.linkedin.com/in/giovanna-rs/
 **GitHub** https://github.com/rsGiovanna/
 
-___**Rodrigo Alex**___ | 21 anos de idade | Desenvolvedor BackEnd
+##
+
+___**Rodrigo Alex Gonçalves**___ | 21 anos de idade | Desenvolvedor  
 **LinkedIn**
 https://www.linkedin.com/in/rodrigo-alex-11145992/
 **GitHub** https://github.com/ORodrigoAlex
