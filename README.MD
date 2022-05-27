@@ -1,8 +1,6 @@
-
-
 # 🤓 Frequência com Reconhecimento Facial - Python
 
-Este projeto é uma atividade extracurrícular, desenvolvido por alunos do 7° período de Sistemas de informação do Centro Universitário do Planalto Central Apparecido dos Santos (UNICEPLAC). 
+Este projeto é uma atividade extracurrícular, desenvolvido por alunos do 7° período de Sistemas de informação do Centro Universitário do Planalto Central Apparecido dos Santos (UNICEPLAC).
 
 O objetivo deste projeto é utilizar a tecnologia a favor professores e instituições de ensino no controle de presença de alunos.
 
@@ -10,11 +8,9 @@ Tem como beneficios um melhor controle dos alunos, facilitando a organização, 
 
 A ideia é que, ao avançar no desenvolvimento do projeto, possamos dar um controle melhor até para os pais. Muitos pais deixam seus filhos na porta da escola e eles nem sequer entram. Caso não entrem, não estejam presentes, será emitido um alerta aos pais. Isso poderá evitar sequestros, decaimento no rendimento de alunos e os pais poderão sentir-se mais tranquilos ao saberem que seus filhos estão em um local seguro.
 
-
 ## 👨🏻‍💻👩🏻‍💻 Stack utilizada
 
 **Python:** `face-recognition, csv, opencv `
-
 
 ## 💻 Instalação
 
@@ -30,15 +26,16 @@ Para realizar a instalação no windows, foi necessário seguir todos os passos 
 
 **No terminal**
 
-    1 - Digite| `-m venv venv`
-    2 - Digite| `Set-ExecutionPolicy Unrestricted -Scope Process`
+    1 - Digite| -m venv venv
+    2 - Digite| Set-ExecutionPolicy Unrestricted -Scope Process
     3 - Digite| venv\Scripts\activate.ps1
 
     Aperte as teclas CTRL + SHIFT + P
     Selecione a opção| Python: Select Interpreter
     Selecione a opção| Python: 3.10.2 ('venv':venv) .\venv\Scripts\python.exe
-    
-    Certifique-se que os arquivos "requirements.txt" e "dlib-19.22.99-cp310-cp310-win_amd64.whl" estejam na pasta do projeto
+
+    Certifique-se que os arquivos "requirements.txt" e "dlib-19.22.99-cp310-cp310-win_amd64.whl" 
+    estejam na pasta do projeto.
 
 **No terminal**
 
@@ -51,9 +48,7 @@ Para realizar a instalação no windows, foi necessário seguir todos os passos 
     Para conferir se estão instalados| pip list
 
     Biblioteca utilizada| https://face-recognition.readthedocs.io/en/latest/readme.html
-    
 
-    
 ## 🚀 Sobre nós
 
 Somos estudantes do 7° periodo de sistema de informação na UNICEPLAC.
