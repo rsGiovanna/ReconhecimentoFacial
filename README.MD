@@ -1,6 +1,6 @@
 
 
-# Frequência com Reconhecimento Facial
+# 🤓 Frequência com Reconhecimento Facial - Python
 
 Este projeto é uma atividade extracurrícular, desenvolvido por alunos do 7° período de Sistemas de informação do Centro Universitário do Planalto Central Apparecido dos Santos (UNICEPLAC). 
 
@@ -8,9 +8,15 @@ O objetivo deste projeto é utilizar a tecnologia a favor professores e institui
 
 Tem como beneficios um melhor controle dos alunos, facilitando a organização, economia de tempo, diminuição na utilização de papel, melhor desempenho e aproveitamento dos alunos visto que não poderão faltar ou estar em outro local, senão em sala.
 
-A ideia é que, ao avançar no desenvolvimento do projeto, possamos dar um controle melhor até para os pais. Muitos pais deixam seus filhos na porta da escola e eles nem sequer entram. Caso não entrem, não estejam presentes, será emitido um alerta aos pais. Isso poderá evitar sequestros, decaimento no rendimento de alunos e os pais poderão se sentir tranquilos por saber que seus filhos estão em um local seguro.
+A ideia é que, ao avançar no desenvolvimento do projeto, possamos dar um controle melhor até para os pais. Muitos pais deixam seus filhos na porta da escola e eles nem sequer entram. Caso não entrem, não estejam presentes, será emitido um alerta aos pais. Isso poderá evitar sequestros, decaimento no rendimento de alunos e os pais poderão sentir-se mais tranquilos ao saberem que seus filhos estão em um local seguro.
 
-## Instalação
+
+## 👨🏻‍💻👩🏻‍💻 Stack utilizada
+
+**Python:** `face-recognition, csv, opencv `
+
+
+## 💻 Instalação
 
 Para realizar a instalação no windows, foi necessário seguir todos os passos a seguir:
 
