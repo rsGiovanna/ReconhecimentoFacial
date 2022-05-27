@@ -10,7 +10,7 @@ if webcam.isOpened():
         key = cv2.waitKey(5)
         if key == 27: # ESC
             break
-    cv2.imwrite("FotoLira.png", frame)
+    cv2.imwrite("Capture.png", frame)
 
 webcam.release()
 cv2.destroyAllWindows()
