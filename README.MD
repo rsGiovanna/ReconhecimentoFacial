@@ -26,7 +26,7 @@ Para realizar a instalação no windows, foi necessário seguir todos os passos 
 
 **No terminal**
 
-    1 - Digite| -m venv venv
+    1 - Digite| python -m venv venv
     2 - Digite| Set-ExecutionPolicy Unrestricted -Scope Process
     3 - Digite| venv\Scripts\activate.ps1
 
@@ -41,7 +41,7 @@ Para realizar a instalação no windows, foi necessário seguir todos os passos 
 
     1 - Digite| pip install -r requirements.txt
     2 - Digite| pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
-    3 - Digite| pip install face-recognition
+    3 - Digite| pip install face_recognition
     4 - Digite| pip install numpy
     5 - Digite| pip install opencv-python
 
